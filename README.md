@@ -24,10 +24,4 @@ It allows admins to manage courses, teachers, and students through Django's buil
 - **Admin Panel**: Django’s built-in admin system
 - **Static Handling**: Django staticfiles
 
----
-
-## 🚀 Setup Instructions
-
-1. **Clone the repository**
-```bash
 
